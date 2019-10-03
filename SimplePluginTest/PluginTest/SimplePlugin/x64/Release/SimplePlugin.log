@@ -1,0 +1,9 @@
+﻿  SimpleClass.cpp
+  Wrapper.cpp
+     Creating library D:\Game Development Year 3\002 Game Engine Design and Implementation\Assignments and Tutorials\Ind-Assignment-1\SimplePluginTest\PluginTest\x64\Release\SimplePlugin.lib and object D:\Game Development Year 3\002 Game Engine Design and Implementation\Assignments and Tutorials\Ind-Assignment-1\SimplePluginTest\PluginTest\x64\Release\SimplePlugin.exp
+  Generating code
+  2 of 141 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SimplePlugin.vcxproj -> D:\Game Development Year 3\002 Game Engine Design and Implementation\Assignments and Tutorials\Ind-Assignment-1\SimplePluginTest\PluginTest\x64\Release\SimplePlugin.dll
